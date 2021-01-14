@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstLab</string>
+    <string name="button_add">Add</string>
+    <string name="text_res">Result</string>
+    <string name="get_sur"> </string>
+    <string name="get_nam"> </string>
+    <string name="get_alert">Data</string>
+    <string name="get_solv">Roots</string>
+</resources>
